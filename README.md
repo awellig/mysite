@@ -1,6 +1,7 @@
-# [My template to host static Website](https://github.com/awellig/mysite/)
+# My template to host static Website
 
-This template is based on [Bootstramp templates](http://startbootstrap.com/template-overviews/one-page-wonder/)
+* This template is based on [Bootstramp templates](http://startbootstrap.com/template-overviews/one-page-wonder/)
+* This template can be viewed in github directly: [awellig.github.io/mysite](https://awellig.github.io/mysite)
 
 ## Status
 
